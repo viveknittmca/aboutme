@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Machine Learning"
   url = "https://www.coursera.org/learn/machine-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/4K94CMZJNEKW"
-  date_start = "Jun 2015"
-  date_end = "Jan 2016"
+  date_start = "2015-06-01"
+  date_end = "2016-01-23"
   description = "Machine Learning from Stanford by Andrew Ng"
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Introduction to Recommender Systems"
   url = "https://www.coursera.org/learn/recommender-systems"
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/Y2XC77XS9P47"
-  date_start = "Jun 2015"
-  date_end = "Nov 2015"
+  date_start = "2015-06-01"
+  date_end = "2015-11-09"
   description = "Introduction to Recommender Systems from University of Minnesota"
  
 
