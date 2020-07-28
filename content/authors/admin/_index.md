@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Big Data & Distributed Systems Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://www.nitt.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include architecting and scaling distributed systems for large user bases.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed Systems
+- Big Data
+- Information Retrieval  
 
 education:
   courses:
