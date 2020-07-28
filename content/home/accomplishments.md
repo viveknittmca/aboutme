@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = ""https://www.coursera.org"
+  organization_url = "https://www.coursera.org"
   title = "Introduction to Recommender Systems"
   url = "https://www.coursera.org/learn/recommender-systems"
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/Y2XC77XS9P47"
